@@ -1,4 +1,5 @@
 # SIDE-PROJECT
+<<<<<<< HEAD
 
 > Git & GitHub 협업을 기반으로  
 > JavaScript, React, MySQL을 활용해 프론트엔드와 백엔드를 연결하는 사이드 프로젝트입니다.
@@ -45,3 +46,6 @@ React 기반 프론트엔드와 MySQL을 사용하는 백엔드를 실제로 연
 - 모든 작업은 feature 브랜치에서 진행
 - PR 후 리뷰를 거쳐 develop 브랜치에 병합
 - main 브랜치는 배포 및 최종 정리용으로만 사용
+=======
+## 민규 바보
+>>>>>>> be158cfc8bda56c2bd2ae1b2441d1066879c109e
