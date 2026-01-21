@@ -49,3 +49,5 @@ feature/* : 개인 기능 개발 브랜치
 - 모든 작업은 feature 브랜치에서 진행
 - PR 후 리뷰를 거쳐 develop 브랜치에 병합
 - main 브랜치는 배포 및 최종 정리용으로만 사용
+
+![alt text](<PhotoshopExtension_Image (8).png>)
