@@ -3,7 +3,9 @@
 > Git & GitHub 협업을 기반으로  
 > JavaScript, React, MySQL을 활용해 프론트엔드와 백엔드를 연결하는 사이드 프로젝트입니다.
 
+
 ---
+
 
 ## 📌 프로젝트 개요
 본 프로젝트는 Git/GitHub 협업 흐름을 익히고,  
